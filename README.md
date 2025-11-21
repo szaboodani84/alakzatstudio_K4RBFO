@@ -7,13 +7,13 @@ Feladat leírása:
 Interaktív alakzatstúdió, ahol kattintásra véletlenszerű alakzat jelenik meg (négyzet, kör, csillag alakú poligon) a vásznon.
 
 Modulok és függvények:
-- tkinter (bemutatandó modul)
+- tkinter 
   - Canvas.create_rectangle
   - Canvas.create_oval
   - Canvas.create_polygon
   - Canvas.bind
-- random, math (tanult modulok)
-- shapes_SzD (saját modul)
+- random, math 
+- shapes_SzD 
 
 Saját függvény:
 - draw_shape_SzD
@@ -22,8 +22,8 @@ Saját osztály:
 - ShapeSzD
 
 Indítási modulok:
-- main.py (app indítása)
-- app.py (alapablak: root, programnév: app)
+- main.py 
+- app.py 
 
 Használat:
 - Futtatás: python main.py
